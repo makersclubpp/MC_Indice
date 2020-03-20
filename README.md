@@ -4,7 +4,7 @@
 
 ### Módulos
 Sensor de ultrasonidos:
-    HC-SR04: https://github.com/makersclubpp/MC_module_hc-sr04/
+>HC-SR04: https://github.com/makersclubpp/MC_module_hc-sr04/
 
 
 ### Software
